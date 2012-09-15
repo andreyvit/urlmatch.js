@@ -1,0 +1,18 @@
+{
+  "name": "urlmatch",
+  "version": "0.1.0",
+  "description": "URL host/port/path matching (kind of like fnmatch)",
+  "main": "lib/urlmatch.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha -R ${REPORTER-spec}"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andreyvit/urlmatch.js.git"
+  },
+  "author": "Andrey Tarantsov <andrey@tarantsov.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.4.2"
+  }
+}
