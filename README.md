@@ -1,5 +1,7 @@
 # urlmatch.js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/andreyvit/urlmatch.js.svg)](https://greenkeeper.io/)
+
 Synopsis:
 
     var urlmatch = require('urlmatch');
