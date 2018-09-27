@@ -13,6 +13,6 @@
   "author": "Andrey Tarantsov <andrey@tarantsov.com>",
   "license": "MIT",
   "devDependencies": {
-    "mocha": "~1.4.2"
+    "mocha": "~5.2.0"
   }
 }
